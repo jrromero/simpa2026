@@ -3,7 +3,7 @@
 #### Talk 
 "IA. Cerebros digitales en un planeta físico. Lo que tu chatbot no te cuenta."
 
-#### Speaker: \
+#### Speaker: 
 Dr. José Raúl Romero Salguero \
 Associate professor, University of Córdoba \
 Head researcher - [HUMAINS](http://www.humainslab.org) (Human-Centred Artificial Intelligence Methods, Applications, and Software) Reserch Group
