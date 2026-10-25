@@ -3,11 +3,12 @@ Resume el dossier y propón un titular.
 
 PROMPT B: AUDITORÍA
 Actúa como editor de datos ambientales. Analiza el dossier FARO.
+Sigue las siguientes instrucciones:
 1. Extrae producción, captación de agua y electricidad de ambos años con página e identificador.
 2. Calcula variación total y por tonelada. Muestra fórmula y unidades.
 3. Señala qué conclusiones no permite el expediente.
 4. Propón un titular de hasta 14 palabras y una entradilla de hasta 60.
-5. Vincula tres afirmaciones a sus evidencias. No inventes citas.
+5. Vincula tres afirmaciones a sus evidencias. Evita inventar citas.
 
 PROMPT DE COMPARACIÓN DE BOLETINES
 Compara ambos boletines. Devuelve el expediente, el importe, el plazo anterior, el nuevo plazo y el pasaje que prueba el cambio.
