@@ -1,30 +1,8 @@
-CASO FARO. MATERIAL COMPLETAMENTE FICTICIO PARA SIPMA 2026
-Documento N. Nota de prensa simulada. 23 de octubre de 2026.
+[Documento N] = """Nota de prensa. 23 de octubre de 2026.
 
 [N1] FARO reduce un 40% su consumo anual de agua.
 [N2] La instalación presenta como una mejora de eficiencia el paso de 10.000 m³ en 2024 a 6.000 m³ en 2025.
 [N3] La electricidad anual pasó de 1.000 a 900 MWh.
 [N4] La organización adjunta una serie anual y un anexo metodológico. Su portavoz propone el titular: «FARO, una instalación cada vez más eficiente».
-
-Aviso: la instalación, el portavoz y los documentos son ficticios. La validez de la interpretación debe comprobarse con el resto del expediente.
-
-DOCUMENTO T. SERIE ANUAL
-[T1] Año 2024: producción 20000 t; captación 10000 m³; electricidad 1000 MWh.
-[T2] Año 2025: producción 10000 t; captación 6000 m³; electricidad 900 MWh.
-[T3] Datos ficticios; ambos años completos.
-
-CASO FARO. MATERIAL COMPLETAMENTE FICTICIO
-Documento M. Anexo metodológico.
-
-[M1] Los datos de ambos años se refieren al mismo perímetro de la instalación y a años completos.
-[M2] La variable de agua corresponde a captación de la red en metros cúbicos. No mide agua evaporada ni demuestra calidad del vertido. El comunicado usa «consumo» de forma coloquial.
-[M3] La producción anual fue de 20.000 toneladas en 2024 y 10.000 toneladas en 2025. El indicador específico se calcula dividiendo el recurso anual entre la producción del mismo año.
-[M4] Para electricidad, 1 MWh equivale a 1.000 kWh. Los datos no incluyen factores de emisión, causas del cambio ni una evaluación de contaminación.
-[M5] Una menor captación anual puede coexistir con un mayor volumen captado por tonelada. La serie permite calcular ratios; no atribuir causas.
-
-CASO FARO. MATERIAL COMPLETAMENTE FICTICIO
-Documento D. Respuesta simulada a una consulta de la redacción.
-
-[D1] Confirmamos que el perímetro de los registros anuales es el mismo en 2024 y 2025. No hemos aportado datos sobre emisiones, composición de la pluma, agua evaporada o calidad del vertido.
-[D2] El expediente no incluye un estudio causal sobre las variaciones de producción o de recursos. Para valorar esas causas sería necesaria documentación adicional.
-[D3] La imagen del taller es una ilustración sintética. No puede emplearse como prueba de un suceso, de una ubicación o de una sustancia emitida.
+"""
+Genera un titular para [Documento N].
