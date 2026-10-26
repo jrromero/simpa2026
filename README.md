@@ -8,6 +8,13 @@ Dr. José Raúl Romero Salguero \
 Associate professor, University of Córdoba \
 Head researcher - [HUMAINS](http://www.humainslab.org) (Human-Centred Artificial Intelligence Methods, Applications, and Software) Reserch Group
 
+### Beanchmarks
+
+- [Artificial Analysis](https://artificialanalysis.ai/leaderboards/models)
+- [Vellum LLM Leaderboard](https://www.vellum.ai/llm-leaderboard)
+- Luxembourg Institute of Science and Technology (LIST). [Leaderboards and benchmarks](https://ai-sandbox.list.lu/sandbox-leaderboard/)
+
+
 ### References
 
 - EBU y BBC. News Integrity in AI Assistants: An international PSM study. Octubre 2025. [Link](https://www.ebu.ch/files/live/sites/ebu/files/Publications/Intelligence/open/EBU-Intelligence-BBC_News_Integrity_in_AI_Assistants_Report_2025.pdf)
