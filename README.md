@@ -1,4 +1,4 @@
-# Additional material - SIMPA Conference 2026 
+# Additional material - SIPMA Conference 2026 
 
 #### Talk 
 "IA. Cerebros digitales en un planeta físico. Lo que tu chatbot no te cuenta."
